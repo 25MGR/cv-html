@@ -1,0 +1,6 @@
+// script.js
+
+window.addEventListener('DOMContentLoaded', () => {
+  console.log(Currículum cargado correctamente.);
+  alert(https://github.com/25MGR/cv-html.git);
+});
